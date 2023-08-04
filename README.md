@@ -34,6 +34,6 @@ https://github.com/suptimusfika/Cypress_Web_Automation_Project/assets/48064134/5
 
 https://github.com/suptimusfika/Cypress_Web_Automation_Project/assets/48064134/9f84766d-7d85-4b38-a001-f8d8259917f7
 
-## Report
+## Report:
 ![Cypress_Report](https://github.com/suptimusfika/Cypress_Web_Automation_Project/assets/48064134/3634c688-928a-4983-b78f-66fb6387393f)
 
